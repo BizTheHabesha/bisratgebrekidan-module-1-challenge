@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* The styling for the header is contained in the
+header div. */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -75,6 +77,8 @@ p {
     margin-left: 20px;
 }
 
+/* Class for the general benefits section, with more
+specific classes below. */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -188,6 +192,8 @@ p {
     font-size: 36px;
 }
 
+/* In a similar manner to the header, the footer is
+defined by the div with the footer class */
 .footer {
     padding: 30px;
     clear: both;
