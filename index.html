@@ -8,6 +8,7 @@
 </head>
 
 <body>
+    <!-- The header, main, and footer only add accessibilty and aren't necessarily structural -->
     <header>
         <div class="header">
             <h1>Hori<span class="seo">seo</span>n</h1>
@@ -27,6 +28,7 @@
         </div>
     </header>
     <main>
+        <!-- The main structure of the HTML is done through divs. The section tags add accessibility -->
         <div class="hero"></div>
         <div class="content">
             <div class="search-engine-optimization">
@@ -59,6 +61,8 @@
         </div>
         <div class="benefits">
             <div class="benefit-lead">
+                <!-- Some poorly crafted accessibility features may read out the image inside the section, but at the cost of
+                confusing well crafted features, it will need to remain his way.  -->
                 <section>
                     <h3>Lead Generation</h3>
                     <img src="./assets/images/lead-generation.png" />
