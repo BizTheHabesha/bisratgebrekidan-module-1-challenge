@@ -1,36 +1,19 @@
 # Module 1 Challenge: Code Refactor
 
 
-## Starter Code
-The starter code included fully functioning HTML and CSS.
+## Description
+An improvment to the accessability of the Horieon landing page. Reader, braille keyboard, and other accessability feature users should have an easier time interacting with the website
 
-## User Story
-AS A marketing agency
+![A screenshot of the Horiseon landing page](./assets/images/bizthehabesha.github.io_bisratgebrekidan-module-1-challenge_%20(2).png)
 
-I WANT a codebase that follows accessibility standards
+## Installation
+N/A
 
-SO THAT our own site is optimized for search engines
+## Usage
+The improved landing page is deployed [here](https://bizthehabesha.github.io/bisratgebrekidan-module-1-challenge/).
 
-## Acceptance Criteria
-GIVEN a webpage meets accessibility standards
+## Credits
+N/A
 
-WHEN I view the source code
-
-THEN I find semantic HTML elements
-
-WHEN I view the structure of the HTML elements
-
-THEN I find that the elements follow a logical structure independent of styling and positioning
-
-WHEN I view the image elements
-
-THEN I find accessible alt attributes
-
-WHEN I view the heading attributes
-
-THEN they fall in sequential order
-
-WHEN I view the title element
-
-THEN I find a concise, descriptive title
-
+## License
+N/A
